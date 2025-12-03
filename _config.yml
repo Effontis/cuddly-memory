@@ -32,14 +32,14 @@ sass:
   style: compressed # Style compression
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: Europe/London # Timezone for blog posts and alike
+timezone: America/Los_Angeles # Timezone for blog posts and alike
 
 # 5. Collections
 collections:
   posts:
-    title: Blog # Needed for Siteleaf
+    title: Shits and giggles # Needed for Siteleaf
     output: true
-    description: "This is merely a demo, find out more [about Garth](about)" # The post list page content
+    description: "This is a site where I mess around a learn more about site design" # The post list page content
 
 # 6. Jekyll collections settings
 defaults:
